@@ -1,4 +1,4 @@
-### Hi there, I'm Şule 👋
+# Hi there, I'm Şule 👋
 Computer engineering student at Kocaeli University.
 - 🌊 I’m part of the AUV(Autonomous Underwater Vehicle) team and working on real-time object detection and autonomous navigation
 <!--
