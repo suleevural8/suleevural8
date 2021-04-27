@@ -1,5 +1,5 @@
 # Hi there, I'm Şule 👋
-#Computer engineering student at Kocaeli University.
+Computer engineering student at Kocaeli University.
 - 🌊 I’m part of the AUV(Autonomous Underwater Vehicle) team and working on real-time object detection and autonomous navigation
 <!--
 **suleevural8/suleevural8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
