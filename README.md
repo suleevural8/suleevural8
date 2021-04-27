@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 - 🌊 I’m part of the AUV(Autonomous Underwater Vehicle) team and working on real-time object detection and autonomous navigation
 -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=suleevural8&show_icons=true&theme=synthwave)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suleevural8&show_icons=true&theme=synthwave)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=suleevural8&show_icons=true&theme=cobalt)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suleevural8&show_icons=true&theme=cobalt)
 
