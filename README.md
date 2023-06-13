@@ -1,8 +1,6 @@
 # Hi there, I'm Şule 👋
-Computer engineering student at Kocaeli University.
 - Deep Learning
 - Computer Vision
-- Autonomous Robotic systems
 <!--
 **suleevural8/suleevural8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
